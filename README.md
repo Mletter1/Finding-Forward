@@ -3,7 +3,7 @@ Simple Data Ingestion and Analysis Tool
 
 ## Synopsis
 
-The thought behind this application was to create a simple way to injest a data file, such as a csv, and output consumable human interpritable data and visualizations.
+The thought behind this application was to create a simple way to injest a data files, such as a csv, and output consumable human interpritable data and visualizations.
 
 ## Installation
 
